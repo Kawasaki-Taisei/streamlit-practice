@@ -1,0 +1,13 @@
+site_name: < high and low game > ​
+
+site_url: https://<Kawasaki-Taisei>.github.io/<streamlit-practice>/​
+
+theme:​
+
+  name: mkdocs​
+
+nav:​
+
+  - Home: index.md​
+
+repo_url: https://github.com/<Kawasaki-Taisei>/<streamlit-practice>​
